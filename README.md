@@ -1,14 +1,14 @@
 # Portfolio
 <picture>
-  <img alt="Jenkins-logo" src="https://octoperf.com/img/integrations/jenkins-icon.png">
+  <img alt="Jenkins-logo" src="https://octoperf.com/img/integrations/jenkins-icon.png" height=150>
 </picture>
 
 <picture>
-  <img alt="Unreal-logo" src="https://images.g2crowd.com/uploads/product/image/size_154_by_154/size_154_by_154_09cf52602770b9535b6e2aff09dbf627/unreal-engine.png">
+  <img alt="Unreal-logo" src="https://images.g2crowd.com/uploads/product/image/size_154_by_154/size_154_by_154_09cf52602770b9535b6e2aff09dbf627/unreal-engine.png" height=150>
 </picture>
 
 <picture>
-  <img alt="Unity logo" src="https://bestwinsoft.com/images/stories/flexicontent/item_474_field_15/l_unity_3d_icon.png">
+  <img alt="Unity logo" src="https://bestwinsoft.com/images/stories/flexicontent/item_474_field_15/l_unity_3d_icon.png" height=150>
 </picture>
 
 <picture>
@@ -17,6 +17,10 @@
 
 <picture>
   <img alt="Visual Studio logo" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=150>
+</picture>
+
+<picture>
+  <img alt="Steam logo" src="http://logos-download.com/wp-content/uploads/2016/05/Steam_icon_logo_logotype.png" height=150>
 </picture>
 
 My name is Yousif Mohamad. I have worked as a Build Engineer, Junior Software Developer and Producer for the last two years (2021-present).
