@@ -11,6 +11,14 @@
   <img alt="Unity logo" src="https://bestwinsoft.com/images/stories/flexicontent/item_474_field_15/l_unity_3d_icon.png">
 </picture>
 
+<picture>
+  <img alt="Python logo" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon.png" height=150>
+</picture>
+
+<picture>
+  <img alt="Visual Studio logo" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png" height=150>
+</picture>
+
 My name is Yousif Mohamad. I have worked as a Build Engineer, Junior Software Developer and Producer for the last two years (2021-present).
 
 You will find some of the scripts that I have developed and can share in this repository. 
